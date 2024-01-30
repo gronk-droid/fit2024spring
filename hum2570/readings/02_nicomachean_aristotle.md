@@ -1,0 +1,9 @@
+"Nicomachean Ethics," Aristotle
+
+"Excellence, then, being of two kinds, intellectual and moral, intellectual excellence in the main owes both its birth and its growth to teaching (for which reason it requires experience and time), while <u>moral excellence comes about as a result of habit</u>, whence also its name is one that is formed by a slight variation from the word for “habit.” From this it is also plain that *none of the moral excellences arises in us by nature*; for nothing that exists by nature can form a habit contrary to its nature. For instance the <u>stone which by nature moves downwards cannot be habituated to move upwards, not even if one tries to train it by throwing it up ten thousand times</u>; nor anything else that by nature behaves in one way be can fire be habituated to move downwards, nor can trained to behave in another. *Neither by nature, **then**, nor contrary to nature do excellences arise in us; rather we are adapted by nature to receive them, and are made perfect by habit.*" ("Nicomachean Ethics," Aristotle)
+
+1. Nature does not bring about moral excellence.
+2. You cannot teach something to be what it is naturally not.
+3. Therefore, nature has no effect on moral excellence, yet it is by habit.
+
+This argument is deductive and sound as long as the premise that nature is indeed independent of moral excellence. Aristotle is trying to convey that habits are the basis of moral excellence, and has chosen to abolish nature as a founding principle for it, and instead point us in the direction of thinking that habits are the reason for this moral excellence that we can achieve.
