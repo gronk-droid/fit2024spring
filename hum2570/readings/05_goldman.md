@@ -1,0 +1,10 @@
+"The Refutation of Medical Paternalism," Goldman
+
+"The fundamentally faulty premise in the argument for paternalistic role differentiation for doctors is that which <u>assumes that health or prolonged life must take absolute priority in the patient’s value orderings</u>. In order for paternalistic interference to be justified, <u>a person must be acting irrationally or inconsistently with his own long range preferences</u>. The value ordering violated by the action to be prevented must either be known to be that of the person himself, as in the train example, or else be uncontroversially that of any rational person, as in the motorcycle helmet case. But <u>can we assume that health and prolonged life have top priority in any rational ordering?</u> If <u>these values could be safely assumed to be always overriding</u> for those who seek medical assistance, then medical expertise would become paramount in decisions regarding treatment, and decisions on disclosure would become assimilated to those within the treatment context. **But** *in fact very few of us act according to such an assumed value ordering. In designing social policy we do not devote all funds or efforts toward minimizing loss of life*, on the highways or in hospitals for example." ("The Refutation of Medical Paternalism," Goldman).
+
+1. Paternalism requires someone to be rationally going against their long term preferences for life.
+2. Doctors would assume people would value prolonged life over everything else.
+3. Someone rational can value quality of life over prolonged life.
+4. Therefore, medical paternalism is wrong when it forces someone away from their preference.
+
+This argument is sound and valid, as its premises are true. I agree with the sentiment that we must value someones preferences over what we think is best for them, as people's autonomy and choices should be respected.
