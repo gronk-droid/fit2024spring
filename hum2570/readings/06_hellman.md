@@ -1,0 +1,9 @@
+"Of Mice but Not Men: Problems of the Randomized Clinical Trial," Hellman and Hellman
+
+"Moreover, even if patients could waive this right, *it is questionable whether those with terminal illness would be truly able to give voluntary informed consent*. Such patients are extremely dependent on both their physicians and the health care system. Aware of this dependence, <u>physicians must not ask for consent, for in such cases the very asking breaches the doctor-patient relationship</u>. Anxious to please their physicians, <u>patients may have difculty refusing to participate in the trial the physicians describe</u>. The patients may perceive their refusal as damaging to the relationship, whether or not it is so. Such perceptions of coercion affect the decision. <u>Informed-consent forms are difcult to understand, especially for patients under the stress of serious illness for which there is no satisfactory treatment</u>. The forms are usually lengthy, somewhat legalistic, complicated, and confusing, and they hardly bespeak the <u>compassion expected of the medical profession</u>. It is important to remember that those who have studied the doctor-patient relationship have emphasized its empathetic nature." ("Of Mice but Not Men: Problems of the Randomized Clinical Trial," Hellman and Hellman)
+
+1. Patients can feel stressed by both their physician's approval and their potentially life-threatening conditions to take part in a randomized clinical trial.
+2. Patients may feel that refusing to take part in a trial harms their relationship with their doctor.
+3. Therefore, Randomized Clinical Trials are a big stressor on a patient, making them less preferable than other options.
+
+This argument is inductive and cogent because the premises provide a good argument for why a patient might not want to have the pressures of a randomized clinical trial.
