@@ -1,0 +1,3 @@
+[submodule "cse4224/rwhite_gh"]
+	path = cse4224/rwhite_gh
+	url = git@github.com:rtwhite1546/Spring-2024-Intro-to-Machine-Learning.git
