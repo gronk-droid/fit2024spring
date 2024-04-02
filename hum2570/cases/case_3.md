@@ -1,21 +1,15 @@
-### Case 3: To Stop or Not to Stop a Clinical Trial
+### Case 3: "Cloning to Bring Back a Child"
 HUM2570 | Dr. Mizrahi
 Grant Butler | gbutler2020@my.fit.edu
 
-***Were the researchers right to halt the breast cancer study early?***
+1. **If Kathering Gordon could give birth to a clone of her deceased daughter, should she? Explain your answers.**
 
-The researchers were right to end the trial when looking at it through a deontological point of view. The patients are themselves an end and keeping the better drug away from the placebo group would be inhumane. Of course, they also bound themselves to telling the patients if any developments were made, as "promised subjects that they would be told if new information about their disease was discovered" (Friedman).
+According to a deontological viewpoint, it would be wrong to intentionally harm the upbringing and quality of life that a child has. Therefore, it would be morally wrong to clone her daughter, as it would likely lead to some emotionally scarring situations where people might recognize her as Emily, and that could also cause her to feel the need to replace her.
 
-***Suppose by extending the trial the scientists could gain valuable knowledge that would help save many women’s lives in the future. Would halting the trial early then be wrong?***
+2. **Is grief over the loss of a child a morally legitimate reason for wanting to clone him or her? Explain your answers.**
 
-Through a utilitarian point of view, this sacrifice of the few to save the many would indeed be a morally acceptable decision, albeit at the cost of the health of many women now. The scientists did state that many patients are looking for disease-free survival, not just survival alone.
+No, as your grief does not trump a level of human rights that are deserved by a child. Their death might have been untimely and unfortunate, but choosing to try and force a clone of them to fill their shoes emotionally is a level of morally wrongdoing that many fail to attain.
 
-***Suppose extending the trial would save lives in the future but also result in the deaths of some women in the study. Would the extension then be permissible?***
+3. **Is there a morally relevant difference between sexually producing a child to replace a lost one and producing a child through cloning for the same reason? Explain your answers.**
 
-The extension of the trial should not be permissible from a Kantian perspective, as preventable deaths being allowed would not be accepted in a study of this severity.
-
-***Was the use of placebos ethical?***
-
-Using a placebo in a trial is required for science to determine whether a drug actually does its intended effect. If the goal of the trial is ultimately to provide that answer in order to save as many lives as possible, then it is ethically good for a placebo to be used in a trial.
-
-<sub>Richard Friedman, "Cases: Long-Term Questions Linger in Halted Breast Cancer Trial," New York Times, October 21, 2003, http://www.nytimes.com/pages/health.</sub>
+This seems to depend on whether the parents of the prospective child are choosing to clone the child to directly replace what their child was to them. If the cloning is there to directly replace the child's attributes, it might be more morally questionable than if a couple simply would like to try and have another child. Replacing a deceased child does not necessarily imply that they want to abuse the child emotionally and try to mold them into their previous offspring. Cloning for that reason seems to have the connotation that the parents want the child to fulfill a certain role that they already have chosen for it. This directly harms the child's ability to have their own personality and choices in life.
