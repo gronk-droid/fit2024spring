@@ -2,7 +2,7 @@
 HUM2570 | Dr. Mizrahi
 Grant Butler | gbutler2020@my.fit.edu
 
-1. **If Kathering Gordon could give birth to a clone of her deceased daughter, should she? Explain your answers.**
+1. **If Katherine Gordon could give birth to a clone of her deceased daughter, should she? Explain your answers.**
 
 According to a deontological viewpoint, it would be wrong to intentionally harm the upbringing and quality of life that a child has. Therefore, it would be morally wrong to clone her daughter, as it would likely lead to some emotionally scarring situations where people might recognize her as Emily, and that could also cause her to feel the need to replace her.
 
