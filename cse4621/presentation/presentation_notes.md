@@ -14,3 +14,7 @@ Method Hiding Factor (MHF)
   - https://www.cc.uah.es/drg/b/RodHarRama00.English.pdf
 
 #### Programs for Analysis
+
+[Flask](https://github.com/pallets/flask) - A python framework for building web apps.
+
+[Tranformers](https://github.com/huggingface/transformers) - A python machine learning pipeline utility.
