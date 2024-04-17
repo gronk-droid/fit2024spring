@@ -1,3 +1,6 @@
 [submodule "cse4224/rwhite_gh"]
 	path = cse4224/rwhite_gh
 	url = git@github.com:rtwhite1546/Spring-2024-Intro-to-Machine-Learning.git
+[submodule "metrics-calculator"]
+	path = cse4621/presentation/metrics-calculator-python
+	url = git@github.com:minaschar/metrics-calculator-python.git
