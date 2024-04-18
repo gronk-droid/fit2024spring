@@ -1,6 +1,6 @@
 ###### Metrics Calculator
 
-Found [here](https://github.com/minaschar/metrics-calculator-python).
+Found [Python Metrics Calculator](https://github.com/minaschar/metrics-calculator-python).
 
 #### Metrics
 
@@ -18,3 +18,9 @@ Method Hiding Factor (MHF)
 [Flask](https://github.com/pallets/flask) - A python framework for building web apps.
 
 [Tranformers](https://github.com/huggingface/transformers) - A python machine learning pipeline utility.
+- `pipelines` module was analyzed.
+
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube video downloading utility.
+- `extractor` module was used.
+
+[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An automator tool suite for GPT.
