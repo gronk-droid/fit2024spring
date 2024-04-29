@@ -50,17 +50,10 @@ When selecting which models to use, dimensional reduction often is tackled with 
 
 <div class="centerImage">
 
-<img style="float: right;" src="assets/pca_first_weight.svg">
+<img src="assets/pca_first_weight.svg">
 
-<em>weight of first component</em>
-</span>
-</span>
-</span>
-<img style="float: right;" src="assets/pca_kth_weight.svg">
-
-<em>weight of k-th component</em>
+<img src="assets/pca_kth_weight.svg">
 </div>
-
 <div class="paragraph">
 
 Another commonly used dimensional reduction technique is t-distributed stochastic neighbor embedding (t-SNE). It uses a probability distribution, giving similar objects higher probability and less similar ones a lower one. Then, it minimizes KL divergence<sup><a href="https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence"></a></sup> over the map, creating a low dimensional space for high dimensional data.
@@ -69,14 +62,10 @@ Using a combination of these two techniques, it would be possible to first reduc
 
 </div>
 
+<div class="pageBreak"></div>
 <div class="center">
 
 ##### 3. Results
-</div>
-
-<div class="paragraph">
- 
- Using just PCA or t-SNE on its own doesn't separate the data into interpretable clusters, as they both seem to end up with three clusters.
 </div>
 
 **Figure 1:** PCA on raw data
@@ -91,12 +80,14 @@ Using a combination of these two techniques, it would be possible to first reduc
 
 <div class="paragraph">
 
+Using just PCA or t-SNE on its own did not separate the data into interpretable clusters, as they both seem to end up with three clusters that still contained too many tracks to interpret any information from.
+
 When checking the loadings of the PCA, or the eigenvectors scaled by the variances, it was found that this data set's audio features ranked as such:
 
 </div>
 
+<div class="pageBreak"></div>
 
- 
 **Figure 3:** Cumulative Explained Variance Ratio vs Number of Principal Components
 
 <div style="td {background: rgba(0, 0, 0, 0.4);}">
@@ -129,9 +120,9 @@ When checking the loadings of the PCA, or the eigenvectors scaled by the varianc
 
 <div class="paragraph">
 
-While using 6 principal components, about 70% of the data's variance was preserved. Both having the variance and the loadings, it's possible to understand the groupings of tracks in the data. 
+While using 6 principal components, ≈68% of the data's variance was preserved. Both having the variance and the loadings, it is possible to understand the groupings of tracks in the data. 
 
-In order to keep this variance and loadings in mind, PCA was run with different numbers of principal components, from 2 all the way to 6, as the 70% threshold for variance was acceptable. When looking at the variance and loadings, the first 3 that always seemed to make the biggest difference were danceability, valence and speechiness.
+In order to keep this variance and loadings in mind, PCA was run with different numbers of principal components, from 2 all the way to 6, as the 68% threshold for variance was acceptable. When looking at the loadings, the three that consistently at the top were danceability, valence, and speechiness.
 </div>
 
 <div class="pageBreak"></div>
