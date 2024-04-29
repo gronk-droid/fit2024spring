@@ -83,6 +83,8 @@ Using a combination of these two techniques, it would be possible to first reduc
 
 ![](assets/pca_3d.png)
 
+<div class="pageBreak"></div>
+
 **Figure 2:** t-SNE on raw data
 
 ![](assets/t-sne_3d.png)
@@ -132,16 +134,17 @@ While using 6 principal components, about 70% of the data's variance was preserv
 In order to keep this variance and loadings in mind, PCA was run with different numbers of principal components, from 2 all the way to 6, as the 70% threshold for variance was acceptable. When looking at the variance and loadings, the first 3 that always seemed to make the biggest difference were danceability, valence and speechiness.
 </div>
 
-<div>
+<div class="pageBreak"></div>
 
 **Figure 5:** PCA t-SNE
 
 ![](assets/pca_tsne_3d.png)
-</div>
+<div class="pageBreak"></div>
 
 **Figure 6:** PCA t-SNE Features Colored
 
 ![](assets/pca_tsne_features.png)
+<div class="pageBreak"></div>
 
 **Figure 7:** PCA t-SNE Features Colored 3D
 
@@ -174,6 +177,7 @@ Looking at the averages of each of the features, the clusters follow a trend. Be
 With this technique, it is possible to find combinations of music across genres that might not go together conventionally. With this, it is possible to create playlists that completely change how one views music and how it should be organized. One library can be vastly different from another, so using this technique and tuning the models to observe what a given library of music is defined by. This allows for people to find what their interests can be defined by, giving them a quantitative way to understand their tastes and adjust how they are grouping their music based on that.
 </div>
 
+<div class="pageBreak"></div>
 <div class="center">
 
 ##### 5. References
