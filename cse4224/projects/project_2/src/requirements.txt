@@ -1,0 +1,9 @@
+matplotlib==3.8.4
+moviepy==1.0.3
+numpy==1.26.4
+pandas==2.2.2
+Pillow==10.3.0
+plotly==5.21.0
+python-dotenv==1.0.1
+scikit_learn==1.4.2
+spotipy==2.23.0
